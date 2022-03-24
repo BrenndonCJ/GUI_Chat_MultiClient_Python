@@ -1,3 +1,3 @@
 # Sistema GUI chat MultiClient
-    * Socket
-    * PySide2
+ * Socket
+ * PySide2
